@@ -15,7 +15,7 @@
 5puj47980xk
 </h2>  
 <p align="center">
-creative design | experience-digital-exhibit-xR-immersive
+Digital Arts | Creative Technologies
 </p>
 <p align="center">
 [ website dev ]

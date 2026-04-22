@@ -17,9 +17,7 @@
 <p align="center">
 Digital Arts | Creative Technologies
 </p>
-<p align="center">
-[ website dev ]
-</p>
+
 <img width="2152" height="1080" alt="image-link-alpha" src="https://github.com/user-attachments/assets/1e1ba848-88f4-4bee-96ad-b4829106ea1d" />
 
 
